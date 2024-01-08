@@ -1,7 +1,9 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to create insights using various visualizations and dashboards using data on Real Estate Prices and Incomes across various districts within Canada.
+With the insights generated, stakeholders and end users can better understand the changes in real estate prices over the years across various districts in Canada and also see how that compares with changes in earnings over the years as well.
+Process
 
 ## Process
 ### (your step 1)
