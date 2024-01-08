@@ -16,7 +16,6 @@ Process
 -Lastly, I went through each of the objectives, one at a time, selecting the best visualization, and creating insights that will help business leaders and other stakeholders make valuable decisions. 
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 -I opted to go with Option 1 and I worked with all 6 datasets made available to me.
 -To build meaningful insights for decision makers, I created visualizations using various charts. Key ones used in the project include:
 -Line Chart
@@ -36,7 +35,10 @@ Process
 -Lastly, There isn't any difference between the Consumer Price Index and and House Price Index over the years. They have both grown at the same rate. 
 
 ## Challenges 
-(discuss challenges you faced in the project)
+-I experienced a couple of challenges while working on the project.
+-First, I struggled with importing the JSON file as tableau. The resulting table was not accurate. I resolved this by importing the file into python and using pandas to convert it into a dataframe, then exported it to CSV.
+-I also struggled with manipulating data on Tableau but I believe this will improve as I practice more with the application.
+-Lastly, I am not sure if it is due to the version of the application I have but I had some limitations with selecting certain visualizations that I needed. 
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time, I would have opted for Option 2 and explored one of the other questions. I believe it would have posed a bigger challenge therefore giving me the opportunity to learn and practice more skills. 
