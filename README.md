@@ -32,7 +32,7 @@ Process
 -In 2001, Canadians spent over 150% of their incomes on home expenses. But in 2014, the value dropped significantly to slightly over 50%.
 -I cannot see any direct correlation between the key economic events in the past and incomes or real estate prices in Canada.
 -There is however a slight relationship with the prices of house constructions, with the cost of construction materials experiencing a dip in those key years.
--Lastly, There isn't any difference between the Consumer Price Index and and House Price Index over the years. They have both grown at the same rate. 
+-Lastly, There isn't any difference between the Consumer Price Index and House Price Index over the years. They have both grown at the same rate. 
 
 ## Challenges 
 -I experienced a couple of challenges while working on the project.
