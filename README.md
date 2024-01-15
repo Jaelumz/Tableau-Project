@@ -28,7 +28,7 @@ Process
 -The price of homes (and offices) has consistently increased in the last 40 years, with the highest jump happening between 1983 and 1984.
 -The Canadian districts with the most expensive homes are Greater Vancouver, Lower Mainland and Oakville Milton.
 -Across these districts, the difference in the price of homes has also stayed relatively the same.
--Earnings accross Canada has also grown at a consistent rate year on year.
+-Earnings across Canada has also grown at a consistent rate year on year.
 -In 2001, Canadians spent over 150% of their incomes on home expenses. But in 2014, the value dropped significantly to slightly over 50%.
 -I cannot see any direct correlation between the key economic events in the past and incomes or real estate prices in Canada.
 -There is however a slight relationship with the prices of house constructions, with the cost of construction materials experiencing a dip in those key years.
