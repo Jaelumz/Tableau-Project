@@ -6,7 +6,7 @@ With the insights generated, stakeholders and end users can better understand th
 Process
 
 ## Process
-- I started the project by reading the instructions and understanding each of the possible options available to me.
+- Started the project by reading the instructions and understanding each of the possible options available to me.
 - After completing the review, I decided to go with Option 1.
 - Once that was done, first step was to download the data sets made available to me.
 - Secondly, I uploaded all the datasets to Tableau, including the CSV and JSON file types.
@@ -16,15 +16,15 @@ Process
 - Lastly, I went through each of the objectives, one at a time, selecting the best visualization, and creating insights that will help business leaders and other stakeholders make valuable decisions. 
 
 ## Results
-- I opted to go with Option 1 and I worked with all 6 datasets made available to me.
-- To build meaningful insights for decision makers, I created visualizations using various charts. Key ones used in the project include:
+- I opted to go with Option 1 and worked with all 6 datasets made available.
+- To build meaningful insights for decision makers, visualizations were created using various charts. Key ones used in the project include:
 - Line Chart
 - Tree Map
 - Area Chart
 - Bar Chart
 - Including Trend Analysis for a couple of the graphs.
 
--In a nutshell, I came up with the following conclusions:
+-Following analysis of data and modelling relationships, the following conclusions were reached:
 - The price of homes (and offices) has consistently increased in the last 40 years, with the highest jump happening between 1983 and 1984.
 - The Canadian districts with the most expensive homes are Greater Vancouver, Lower Mainland and Oakville Milton.
 - Across these districts, the difference in the price of homes has also stayed relatively the same.
