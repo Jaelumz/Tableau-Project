@@ -25,7 +25,7 @@ Process
 -Including Trend Analysis for a couple of the graphs.
 
 -In a nutshell, I came up with the following conclusions:
--The price of homes (and offices) has consistently increased in the last 40 years, with the highest jump happening betwwen 1983 and 1984.
+-The price of homes (and offices) has consistently increased in the last 40 years, with the highest jump happening between 1983 and 1984.
 -The Canadian districts with the most expensive homes are Greater Vancouver, Lower Mainland and Oakville Milton.
 -Across these districts, the difference in the price of homes has also stayed relatively the same.
 -Earnings accross Canada has also grown at a consistent rate year on year.
