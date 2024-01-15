@@ -18,11 +18,11 @@ Process
 ## Results
 - I opted to go with Option 1 and worked with all 6 datasets made available.
 - To build meaningful insights for decision makers, visualizations were created using various charts. Key ones used in the project include:
-- Line Chart
-- Tree Map
-- Area Chart
-- Bar Chart
-- Including Trend Analysis for a couple of the graphs.
+-Line Chart
+-Tree Map
+-Area Chart
+-Bar Chart
+-Including Trend Analysis for a couple of the graphs.
 
 -Following analysis of data and modelling relationships, the following conclusions were reached:
 - The price of homes (and offices) has consistently increased in the last 40 years, with the highest jump happening between 1983 and 1984.
