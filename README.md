@@ -13,14 +13,6 @@ The project objective is to generate insights by employing diverse visualization
 
 
 ## Results
-- I opted to go with Option 1 and worked with all 6 datasets made available.
-- To build meaningful insights for decision makers, visualizations were created using various charts. Key ones used in the project include:
--Line Chart
--Tree Map
--Area Chart
--Bar Chart
--Including Trend Analysis for a couple of the graphs.
-
 - Utilizing all six available datasets to generate insights and trend analysis for decision-makers, I employed the below chart types to showcase needed insights:
   - Line Chart
   - Area Chart
