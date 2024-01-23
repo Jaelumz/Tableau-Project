@@ -17,6 +17,7 @@ The project objective is to generate insights by employing diverse visualization
   - Line Chart
   - Area Chart
   - Bar Chart
+  - Highlight Table
 
 From analysis of the data and modelling relationships, the following conclusions were drawn:
 - The price of homes and offices have consistently risen over the last 40 years, with the most significant surge occuring between 1983 and 1984.
