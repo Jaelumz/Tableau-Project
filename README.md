@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-The project objective is to generate insights by employing diverse visualizations and dashboards, utilizing data on real estate prices and incomes across different districts in Canada. Through these insights, stakeholders and end users can gain a deeper understanding of the fluctuations in real estate prices across various Canadian districts over the years. Additionally, they can assess how these changes correspond to shifts in earnings throughout the same period. Here is the procedural approach for achieving these goals.
+To generate insights by employing diverse visualizations and dashboards, utilizing data on real estate prices and incomes across select districts in Canada. Through these insights, stakeholders and end users can gain a deeper understanding of the fluctuations in real estate prices across various Canadian districts over the years. Additionally, they can assess how these changes correspond to shifts in earnings throughout the same period. Here is the procedural approach for achieving these goals.
 
 ## Process
 Following my assessment of the project task, I focused on option 1, understanding the project's objectives and anticipated insights.
