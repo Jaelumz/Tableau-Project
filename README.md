@@ -8,7 +8,7 @@ Following my assessment of the project task, I focused on option1; understanding
 - Initial step involved downloading the provided datasets; following that, all datasets (CSV and JSON file) uploaded to Tableau.
 - Subsequent task involved conducting exploratory analysis on the datasets to grasp the data and its datatypes. This also entailed checking for any missing values or necessary manipulations to prepare the data for visualization.
 - Next steps entailed executing data transformations, using calculated fields to extract specific insights from the data.
-- To address project objective, optimal visualizations were utilized to provide desired insights to consumers of the report.
+- To comprehend data at a glance, optimal visualizations were utilized to provide desired insights to consumers of the report to base their decisions.
 
 
 ## Results
