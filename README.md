@@ -25,6 +25,9 @@ From analysis of the data and modelling relationships, the following conclusions
 - There is no discernible difference between the Consumer Price Index and House Price Index over the years. Both indices have grown at the same rate.
 - In 2001, Canadians allocated over 150% of their incomes to home expenses. However, by 2014, this proportion significantly decreased to slightly over 50%. Although no direct correlation has been observed between key economic events in the past and incomes or real estate prices in Canada. However, a subtle relationship exists with the prices of house construction, notably with a dip in the cost of construction materials during those pivotal years.
 
+## Link to Viz on Tableau Public
+https://public.tableau.com/views/TableauProject_v2/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 ## Challenges 
 Challenges faced entailed:
