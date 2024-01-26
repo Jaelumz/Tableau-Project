@@ -4,7 +4,7 @@
 To generate insights by employing diverse visualizations and dashboards, utilizing data on real estate prices and incomes across select districts in Canada. Through these insights, stakeholders and end users can gain a deeper understanding of the fluctuations in real estate prices across various Canadian districts over the years. Additionally, they can assess how these changes correspond to shifts in earnings throughout the same period. Here is the procedural approach for achieving these goals.
 
 ## Process
-Following my assessment of the project task, I focused on option 1, understanding the project's objectives and anticipated insights.
+Following my assessment of the project task, I focused on option1; understanding the project's objectives and anticipated insights.
 - Initial step involved downloading the provided datasets; following that, all datasets (CSV and JSON file) uploaded to Tableau.
 - Subsequent task involved conducting exploratory analysis on the datasets to grasp the data and its datatypes. This also entailed checking for any missing values or necessary manipulations to prepare the data for visualization.
 - Next steps entailed executing data transformations, using calculated fields to extract specific insights from the data.
