@@ -1,7 +1,18 @@
-# Final-Project-Tableau
+# Real Estate Analysis & Insights
 
-## Project/Goals
-The goal of this project is to generate insights by employing diverse visualizations and dashboards, utilizing data on real estate prices and incomes across select districts in Canada. Through these insights, stakeholders and end users can gain a deeper understanding of the fluctuations in real estate prices across various Canadian districts over the years. Additionally, they can assess how these changes correspond to shifts in earnings throughout the same period.
+## Project Overview
+Real estate markets are influenced by various factors, including economic conditions, demographics, and changing policies. Understanding the dynamics of real estate prices and incomes is crucial for making informed decisions in this sector. This project utilizes data analysis and visualization techniques to uncover patterns and trends in real estate prices and incomes across Canadian districts.
+
+## Goals
+    Generate insights into real estate price fluctuations across Canadian districts.
+    Analyze the relationship between real estate prices and incomes over time.
+    Create informative visualizations and dashboards to facilitate understanding and decision-making.
+
+## Data Sources
+The project utilizes data on real estate prices and incomes across select districts in Canada. The datasets may include information such as:
+    Historical real estate prices by district.
+    Average incomes by district.
+    Economic indicators
 
 ## Process
     Data Preparation:
@@ -19,22 +30,16 @@ The goal of this project is to generate insights by employing diverse visualizat
         Utilized optimal visualizations to provide desired insights to consumers of the report to base their decisions.
 
 
-## Results
-- Utilizing all datasets to generate insights and trend analysis for decision-makers, the below chart types were used to showcase needed insights:
-  - Line Chart
-  - Area Chart
-  - Bar Plots
-  - Highlight Table
+## Results and Insights
+- Identification of trends and patterns in real estate prices across Canadian districts.
+- Analysis of the relationship between real estate prices and incomes, including correlations and causal factors.
+- Insights into factors influencing real estate market dynamics, such as economic conditions 
 
 From analysis of the data and modelling relationships, the following conclusions were drawn:
-- The price of homes and offices have consistently risen over the last 40 years, with the most significant surge occuring between 1983 and 1984.
-- The Canadian districts with the highest priced homes are Greater Vancouver, Lower Mainland and Oakville Milton. The price difference of homes in these districts has remained relatively consistent; however, earnings across Canada have exhibited a steady annual growth rate.
+- Prices of homes and offices have consistently risen over the last 40 years, with a significant surge occuring between 1983 and 1984.
+- Canadian districts with the highest priced homes are Greater Vancouver, Lower Mainland and Oakville Milton. The price difference of homes in these districts has remained relatively consistent; however, earnings across Canada have exhibited a steady annual growth rate.
 - There is no discernible difference between the Consumer Price Index and House Price Index over the years. Both indices have grown at the same rate.
-- In 2001, Canadians allocated over 150% of their incomes to home expenses. However, by 2014, this proportion significantly decreased to slightly over 50%. Although no direct correlation has been observed between key economic events in the past and incomes or real estate prices in Canada. However, a subtle relationship exists with the prices of house construction, notably with a dip in the cost of construction materials during those pivotal years.
-
-## Link to Viz on Tableau Public
-https://public.tableau.com/views/TableauProject_v2/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
-
+- Changes in the proportion of income allocated to home expenses over time. In 2001, Canadians allocated over 150% of their incomes to home expenses and by 2014 this proportion decreased to slightly over 50%. Although no direct correlation has been observed between key economic events in the past and incomes or real estate prices in Canada, a subtle relationship exists with the prices of house construction, notably with a dip in the cost of construction materials during those pivotal years.
 
 ## Challenges 
 Challenges faced entailed:
@@ -42,4 +47,6 @@ Challenges faced entailed:
 - Limitations encountered in accessing specific charts needed to optimally provide visualization to support insights.
 
 ## Future Goals
-Improve my data interpretation and modelling skills to build more relationships using Tableau
+- Incorporate additional datasets to enrich the analysis, such as demographic data and economic indicators.
+- Implement advanced modeling techniques to forecast real estate prices and assess future trends.
+- Enhance the interactivity and user experience of the dashboards based on feedback and user testing.
