@@ -1,4 +1,4 @@
-# Real Estate Analysis & Insights
+# Real Estate Analysis & Economic Insights
 
 ## Project Overview
 Real estate markets are influenced by various factors, including economic conditions, demographics, and changing policies. Understanding the dynamics of real estate prices and incomes is crucial for making informed decisions in this sector. This project utilizes data analysis and visualization techniques to uncover patterns and trends in real estate prices and incomes across Canadian districts.
