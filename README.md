@@ -36,7 +36,9 @@ From analysis of the data and modelling relationships, the following conclusions
 ![Alt text](https://github.com/Jaelumz/Tableau-Project/blob/main/img/Real%20Estate%20Price%20Trends.png)
 - Canadian districts with the highest priced homes are Greater Vancouver, Lower Mainland and Oakville Milton. The price difference of homes in these districts has remained relatively consistent; however, earnings across Canada have exhibited a steady annual growth rate.
 - There is no discernible difference between the Consumer Price Index and House Price Index over the years. Both indices have grown at the same rate.
-- Changes in the proportion of income allocated to home expenses over time. In 2001, Canadians allocated over 150% of their incomes to home expenses and by 2014 this proportion decreased to slightly over 50%. Although no direct correlation has been observed between key economic events in the past and incomes or real estate prices in Canada, a subtle relationship does exists with the prices of house construction, notably with a dip in the cost of construction materials during those pivotal years.
+- Changes in the proportion of income allocated to home expenses over time. In 2001, Canadians allocated over 150% of their incomes to home expenses and by 2014 this proportion decreased to slightly over 50%. 
+![Alt text](https://github.com/Jaelumz/Tableau-Project/blob/main/img/Earnings%20to%20House%20Prices%20Insights.png)
+Although no direct correlation has been observed between key economic events in the past and incomes or real estate prices in Canada, a subtle relationship does exists with the prices of house construction, notably with a dip in the cost of construction materials during those pivotal years.
 
 ## Challenges 
 Challenges faced entailed:
