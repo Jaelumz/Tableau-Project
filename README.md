@@ -15,7 +15,7 @@ The project utilizes data on real estate prices and incomes across select distri
     Economic indicators
 
 ## Process
-Data Preparation:
+    Data Preparation:
         Downloaded the provided datasets.
         Uploaded all datasets (CSV and JSON file) to Tableau.
 
