@@ -48,4 +48,4 @@ Challenges faced entailed:
 ## Future Goals
 - Incorporate additional datasets to enrich the analysis, such as demographic data and economic indicators.
 - Implement advanced modeling techniques to forecast real estate prices and assess future trends.
-- Enhance the interactivity and user experience of the dashboards based on feedback and user testing.
+
