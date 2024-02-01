@@ -1,7 +1,7 @@
 # Real Estate & Income Analysis
 
 ## Project Overview
-Real estate markets are influenced by various factors, including economic conditions, demographics, and changing policies. Understanding the dynamics of real estate prices and incomes is crucial for making informed decisions in this sector. This project utilizes data analysis and visualization techniques to uncover patterns and trends in real estate prices and incomes across Canadian districts.
+Real estate markets are influenced by various factors, including economic conditions, demographics, and changing policies. As such, understanding the dynamics of real estate prices and incomes is crucial for making informed decisions in this sector. This project utilizes data analysis and visualization techniques to uncover patterns and trends in real estate prices and incomes across Canadian districts.
 
 ## Goals
 Generate insights into real estate price fluctuations across Canadian districts.
@@ -9,7 +9,7 @@ Analyze the relationship between real estate prices and incomes over time.
 Create informative visualizations and dashboards to facilitate understanding and decision-making.
 
 ## Data Sources
-The project utilizes data on real estate prices and incomes across select districts in Canada. The datasets may include information such as:
+The project utilizes data on real estate prices and incomes across select districts in Canada. The datasets includes information such as:
     Historical real estate prices by district.
     Average incomes by district.
     Economic indicators
